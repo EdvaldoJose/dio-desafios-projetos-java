@@ -1,4 +1,4 @@
-public class FormatadorCepExemp {
+public class FormatadorCepExemplo {
     public static void main(String[] args) {
         try {
             String cepFormatado = formatarCep("23765064");
