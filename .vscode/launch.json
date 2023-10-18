@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaMedicao2",
+            "request": "launch",
+            "mainClass": "SistemaMedicao2",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
