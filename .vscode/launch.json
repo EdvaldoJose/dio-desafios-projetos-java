@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioBrackCont",
+            "request": "launch",
+            "mainClass": "ExercicioBrackCont",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedicao2",
             "request": "launch",
             "mainClass": "SistemaMedicao2",
