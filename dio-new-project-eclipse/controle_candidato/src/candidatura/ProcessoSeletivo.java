@@ -5,10 +5,10 @@ import java.util.Random;
 
 public class ProcessoSeletivo {
 	public static void main(String[] args) {
-		// analisarCandidato(1900.0);
-		// analisarCandidato(2200.0);
-		// analisarCandidato(2000.0);
-		// imprimirSelecionados();
+		 analisarCandidato(1900.0);
+		 analisarCandidato(2200.0);
+		 analisarCandidato(2000.0);
+		 imprimirSelecionados();
 		String[] candidatos = { "Elipe", "Marcia", "Julia", "Paulo", "Augusto" };
 		for (String candidato : candidatos) {
 			entrandoEmContato(candidato);
