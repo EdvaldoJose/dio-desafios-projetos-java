@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "controle_candidato/candidatura.ProcessoSeletivo",
+            "projectName": "dio-desafios-projetos-java_b5b4513"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile",
             "request": "launch",
             "mainClass": "ExemploWhile",

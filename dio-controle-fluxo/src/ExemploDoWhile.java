@@ -6,7 +6,7 @@ public class ExemploDoWhile {
         do {
             System.out.println("Telefone tocando, atenda!!!");
         } while (tocando());
-        System.out.println("Alô, quam fala!!!");
+        System.out.println("Alô, quem fala!!!");
         System.out.println("Fim da ligacao.");
 
     }
